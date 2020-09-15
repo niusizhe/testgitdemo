@@ -13,5 +13,8 @@ public class GitTest {
         System.out.println("888");
     }
 
-
+    public void test(){
+        System.out.println("999");
+        System.out.println("101010");
+    }
 }
